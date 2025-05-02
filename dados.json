@@ -1,0 +1,36 @@
+{
+  "usuarios": [
+    {
+      "nome": "jef",
+      "cpf": "123",
+      "emprestimos": [
+        {
+          "usuario": "jef",
+          "livro": {
+            "titulo": "1984",
+            "autor": "George Orwell"
+          }
+        }
+      ]
+    }
+  ],
+  "livros": [
+    {
+      "titulo": "1984",
+      "autor": "George Orwell"
+    },
+    {
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis"
+    }
+  ],
+  "emprestimos": [
+    {
+      "usuario": "jef",
+      "livro": {
+        "titulo": "1984",
+        "autor": "George Orwell"
+      }
+    }
+  ]
+}
